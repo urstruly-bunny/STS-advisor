@@ -6,7 +6,7 @@ questionnaire = [
     {"type": "radio", "key": "education", "question": "What is your highest level of education?", "options": ["High School", "Bachelor's", "Master's", "PhD"]},
     {"type": "radio", "key": "experience", "question": "Do you have any prior work or internship experience?", "options": ["No", "Yes - Internship", "Yes - Full-time job"]},
     {"type": "radio", "key": "domain", "question": "Which domain are you targeting?", "options": ["Data Science", "Web Development", "Cybersecurity", "AI/ML", "UI/UX Design", "Cloud Computing"]},
-    {"type": "multiselect", "key": "skills", "question": "Which of these skills do you already have?", "options": ["Python", "SQL", "Git", "Machine Learning", "HTML/CSS", "Cloud Basics", "Linux", "Figma", "None"]},
+    {"type": "multiselect", "key": "skills", "question": "Which of these skills do you already have?", "options": ["Python", "SQL", "Git", "Machine Learning", "HTML/CSS", "Cloud Basics", "Linux", "Figma","Javascript","Deep Learning","C","ReactJS","NodeJS","Wireshark","AWS", "None"]},
     {"type": "radio", "key": "goal", "question": "What's your primary career goal?", "options": ["Get a job", "Freelance", "Build a startup", "Advance in current role", "Switch career"]},
     {"type": "radio", "key": "learning_style", "question": "How do you prefer to learn?", "options": ["Video courses", "Text articles", "Hands-on projects", "Mentorship"]},
 ]
